@@ -12,7 +12,7 @@ Me considero una persona proactiva, con un amplio criterio para solución de pro
 - [Twitter](https://twitter.com/omarmtya) 🕊
 - [Facebook](https://www.facebook.com/profile.php?id=100040176922947) 📙
 - [Instagram](https://www.instagram.com/omar_mtya/) 📷
-- [Página personal](http://omarmtya.com)
+- [Página personal](http://omarmtya.com) 💻
 
 O puedes contactarte conmigo en mi correo electrónico: ✉ luis.montoya.j@gmail.com
 
