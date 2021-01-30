@@ -1,8 +1,8 @@
-# Programador y diseñador digital
+# Programador y diseñador digital 🎨👨‍💻
 Programador Full Stack especializado en el desarrollo de plataformas web.
 Desarrollador de proyectos modulares a gran escala.
 
-## Acerca de mí
+## Acerca de mí 🚀
 Desarrollador de software con experiencia profesional desde 2017, habilidades de comunicación, control de tiempos, trabajo bajo presión y atención/soporte a cliente final.
 
 Me considero una persona proactiva, con un amplio criterio para solución de problemas de acuerdo a mis habilidades y experiencia; al igual lograr y cumplir las estrategias, planes y objetivos dentro de una organización. Con un alto grado de responsabilidad, confianza y disponibilidad de pertenecer a nuevos proyectos.
