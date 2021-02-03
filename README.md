@@ -1,4 +1,4 @@
-# Programador y diseñador digital 👨‍💻🎨
+# Programador y diseñador digital
 Programador Full Stack especializado en el desarrollo de plataformas web.
 Desarrollador de proyectos modulares a gran escala.
 
