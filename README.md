@@ -10,13 +10,7 @@ Me considero una persona proactiva, con un amplio criterio para solución de pro
 ### Mis redes sociales
 - [Linkedin](https://www.linkedin.com/in/omarmtya)
 - [Twitter](https://twitter.com/omarmtya)
-- [Facebook](https://www.facebook.com/profile.php?id=100040176922947)
-- [Instagram](https://www.instagram.com/omar_mtya/)
 - [Página personal](http://omarmtya.com)
-
-O puedes contactarte conmigo en mi correo electrónico: ✉ luis.montoya.j@gmail.com
-
-[Mi CV](https://drive.google.com/file/d/1bOS8xT5dHWidEuJlb3DRTanIUnDpyejY/view?usp=sharing)
 
 <!--
 **OmarMtya/omarmtya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
