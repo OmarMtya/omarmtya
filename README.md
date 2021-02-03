@@ -18,8 +18,6 @@ O puedes contactarte conmigo en mi correo electrónico: ✉ luis.montoya.j@gmail
 
 [Mi CV](https://drive.google.com/file/d/1bOS8xT5dHWidEuJlb3DRTanIUnDpyejY/view?usp=sharing)
 
-Siempre aprendiendo.
-
 <!--
 **OmarMtya/omarmtya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
