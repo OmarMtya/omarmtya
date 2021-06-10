@@ -10,7 +10,7 @@ Me considero una persona proactiva, con un amplio criterio para solución de pro
 ### Mis redes sociales
 - [Linkedin](https://www.linkedin.com/in/omarmtya)
 - [Twitter](https://twitter.com/omarmtya)
-- [Página personal](http://omarmtya.com)
+- [Página personal](http://omarmtya.com/blog)
 
 <!--
 **OmarMtya/omarmtya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
