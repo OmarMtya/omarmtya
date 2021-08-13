@@ -1,4 +1,4 @@
-# Developer & Digital designer
+# Developer & Digital Designer
 Full stack developer specialized in web platform development.
 eveloper of large-scale modular projects.
 
