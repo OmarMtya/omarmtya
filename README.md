@@ -11,8 +11,7 @@ Programador Full Stack especializado en el desarrollo de plataformas web. Desarr
 ## About me
 Full stack developer specialized in developing web applications. Developer of large-scale modular projects since 2017
 
-### Mis redes sociales
-### My social networks
+### Social
 - [Linkedin](https://www.linkedin.com/in/omarmtya)
 - [Twitter](https://twitter.com/omarmtya)
 - [Página personal](http://omarmtya.com)
