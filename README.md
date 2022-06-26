@@ -1,6 +1,3 @@
-Programador y diseñador digital
-Programador Full Stack especializado en el desarrollo de plataformas web.
-Desarrollador de proyectos modulares a gran escala.
 # Developer && digital designer
 Full stack developer specialized in web platform development.
 eveloper of large-scale modular projects.
