@@ -1,6 +1,6 @@
 # Developer && digital designer
 Full stack developer specialized in web platform development.
-eveloper of large-scale modular projects.
+Developer of large-scale modular projects.
 
 ## Acerca de mí
 Programador Full Stack especializado en el desarrollo de plataformas web. Desarrollador de proyectos modulares a gran escala desde 2017
