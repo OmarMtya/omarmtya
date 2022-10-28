@@ -1,12 +1,10 @@
 # Developer && digital designer
-Full stack developer specialized in web platform development.
-Developer of large-scale modular projects.
-
-## Acerca de mí
-Programador Full Stack especializado en el desarrollo de plataformas web. Desarrollador de proyectos modulares a gran escala desde 2017
-
-## About me
-Full stack developer specialized in developing web applications. Developer of large-scale modular projects since 2017
+Fullstack developer since 2017.
+Main technologies:
+- Angular
+- [Strapi](https://github.com/strapi/strapi)
+- Tailwindcss
+- Ionic
 
 ### Social
 - [Linkedin](https://www.linkedin.com/in/omarmtya)
