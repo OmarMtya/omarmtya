@@ -1,4 +1,4 @@
-# Developer && digital designer
+# Developer && Digital Designer
 Fullstack developer since 2017.
 Main technologies:
 - Angular
