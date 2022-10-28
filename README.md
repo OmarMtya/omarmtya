@@ -9,4 +9,4 @@ Main technologies:
 ### Social
 - [Linkedin](https://www.linkedin.com/in/omarmtya)
 - [Twitter](https://twitter.com/omarmtya)
-- [Página personal](http://omarmtya.com)
+- [Personal page](http://omarmtya.com)
