@@ -1,6 +1,3 @@
-# Developer && Digital Designer
-Fullstack developer since 2017.
-
 ## Main technologies:
 - Angular
 - [Strapi](https://github.com/strapi/strapi)
